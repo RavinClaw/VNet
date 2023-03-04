@@ -12,6 +12,8 @@ The domain may change soon. I will change and notify when that happens
 If you want to contact me with any questions just @RavinClawYT on twitter with your question
 
 
+### More Content Comming Soon
+
 Social Media {
 
 Twitter.com : [Twitter Handle](https://twitter.com/@RavinClawYT)
