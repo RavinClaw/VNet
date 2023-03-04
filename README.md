@@ -2,9 +2,9 @@
 #### Welcome to VNET
 
 # Index
-[Index] (https://github.com/RavinClaw/VNet/main/README.md#Index)
-[Error Messages] (https://github.com/RavinClaw/VNet/main/README.md#Error Messages)
-[Social Media] (https://github.com/RavinClaw/VNet/main.README.md#Social Media)
+[Index](https://github.com/RavinClaw/VNet/blob/main/README.md#index)
+[Error Messages](https://github.com/RavinClaw/VNet/blob/main/README.md#error-messages)
+[Social Media](https://github.com/RavinClaw/VNet/blob/main/README.md#social-media)
 
 
 I See you are interested in this project?
